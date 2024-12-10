@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Organic Apples", "description": "Fresh and juicy organic apples.", "price": "398Rs" },
+    { "id": 2, "name": "Raw Almonds", "description": "Crunchy raw almonds.", "price": "636Rs" },
+    { "id": 3, "name": "Kale", "description": "Fresh green kale.", "price": "318Rs" }
+  ]
+  
